@@ -1,6 +1,6 @@
 # *PORTFOLIO*
 
-### ~ Whatsapp SMM (group reminder management) (virtual assisant)
+### ~ Whatsapp SMM (group reminder management) (virtual assisant)    https://github.com/joelclouds/WhatsApp_bot
   https://wwebjs.dev/guide/
   
 ### ~ ai trading signal generator (pycaret)
